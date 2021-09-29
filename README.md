@@ -31,7 +31,7 @@
 
 
 
-<h2 style="color: orangered;">1. Activarion code: </h2><br>
+<h2 style="color: orangered;">1. Activation code: </h2><br>
 
 
       $(document).ready(function(){
