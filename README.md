@@ -1,7 +1,7 @@
 
 <div style="border: 2px solid orangered; padding: 20px;">
     <h1 style="color: orangered;">Load more - load more button with custome codding</h1><br>
-    <h2>Click here for live view: <a href="https://mhfaysal124.github.io/load_more_button./">Demo</a></h2>
+    <h2>Click here for live view: <a href="https://mhfaysal124.github.io/load_more_button./" target="blank">Demo</a></h2>
 <h2 style="color: orangered;">1. HTML code formate: </h2><br>
     
 
