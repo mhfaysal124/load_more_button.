@@ -46,4 +46,4 @@
 
   </div>
 
-  <h2>Connect with me: <a href="https://www.linkedin.com/in/mhfaysal124/"> LinkedIn</a></h2>
+  <h2>Connect with me: <a href="https://www.linkedin.com/in/mhfaysal124/"> LinkedIn</a>, <a href="https://www.facebook.com/mhfaysal124">Facebook</a></h2>
