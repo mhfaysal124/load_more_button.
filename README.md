@@ -46,4 +46,7 @@
 
   </div>
 
-  <h2>Connect with me: <a href="https://www.linkedin.com/in/mhfaysal124/"> LinkedIn</a>, <a href="https://www.facebook.com/mhfaysal124">Facebook</a></h2>
+   <h1>Connect with MH Faysal</h1>
+    <h2>LinkedIn profile: <a href="https://www.linkedin.com/in/mhfaysal124/">LinkedIn</a></h2>
+    <h2>Facebook page: <a href="https://www.facebook.com/mhfaysal124">Facebook</a></h2>
+    <h2>My website: <a href="https://www.mhfaysal.com">MH Faysal</a></h2>
